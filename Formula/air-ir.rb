@@ -15,6 +15,6 @@ class AirIr < Formula
   end
 
   test do
-    assert_match "AIR compiler toolkit #{version}", shell_output("#{bin}/air --help")
+    assert_match "AIR verification and compiler toolkit #{version}", shell_output("#{bin}/air --help")
   end
 end
