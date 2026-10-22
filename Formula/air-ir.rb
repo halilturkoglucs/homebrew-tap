@@ -1,8 +1,8 @@
 class AirIr < Formula
   desc "Application Intermediate Representation compiler and verifier"
   homepage "https://github.com/halilturkoglucs/air"
-  url "https://registry.npmjs.org/@halilturkoglucs/air/-/air-0.12.0.tgz"
-  sha256 "e5edc09beec6eb77d1719d690ab990c16187a47d0c0690a22ad0f225f2d73550"
+  url "https://registry.npmjs.org/@halilturkoglucs/air/-/air-0.13.0.tgz"
+  sha256 "a9da32d39a87d0e3e9b7b3007fcbfbdc5a06e4228703db650705d4585d76ef3c"
   license "Apache-2.0"
 
   depends_on "node"
